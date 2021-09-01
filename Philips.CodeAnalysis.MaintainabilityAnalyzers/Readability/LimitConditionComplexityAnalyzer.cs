@@ -117,3 +117,4 @@ namespace Philips.CodeAnalysis.MaintainabilityAnalyzers.Readability
 		}
 	}
 }
+
